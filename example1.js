@@ -5,7 +5,7 @@ let d = b*c;
 
 const pi_number = 3.14;
 
-d = 10;
+d = 20;
 
 console.log (a);
 console.log (b);
