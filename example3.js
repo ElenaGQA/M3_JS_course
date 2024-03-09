@@ -16,7 +16,7 @@
 const cat = {
     name: "Jet",
     gender: "Male",
-    age: 2,
+    age: 8,
     color: "brown",
     food: ['fish', 'meat', 'mouse'],
     say_miyau: function(){
